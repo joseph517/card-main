@@ -1,7 +1,8 @@
 # Frontend Mentor - Blog preview card
 # https://card-main-xi.vercel.app/
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+![image](https://github.com/user-attachments/assets/1e87f962-c460-4c16-b7c1-8056f9181358)
+
 
 ## Welcome! 👋
 
